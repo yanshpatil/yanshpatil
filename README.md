@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yadnesh Patil</h1>
-<h3 align="center">A Student at R C Patel Institute of Technology</h3>
+<h1 align="center">Hi 👋, I'm Yadnyesh Patil</h1>
+<h3 align="center">A Undergraduate Student at R C Patel Institute of Technology</h3>
 
 - 🌱 I’m currently learning ** Javascipt **
 - 👨‍💻 All of my projects are available at github.com/yanshpatil
@@ -7,11 +7,43 @@
 - 📫 How to reach me **yadneshpatil0307@gmail.com**
 - ⚡ Fun fact **I love working out**
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/Troublemaker379" target="blank"><img align="center" src="https://raw.githubusercontent.com/yanshpatil/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Troublemaker379" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yadnesh-patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/yadnesh-patil/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yadnesh-patil" height="30" width="40" /></a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
+## 📫 How to reach me?
 
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-</a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/HTML5/dart-original-wordmark.svg" alt="express" width="40"height="40"/>
+Feel free to reach me out on [Twitter](https://twitter.com/Troublemaker379), [Linkedin](https://www.linkedin.com/in/yadnesh-patil/) or [Instagram](https://www.instagram.com/yanshhhh_), [Github](https://https://github.com/yanshpatil)
+
+*🚧I build with....**
+<p>
+<a href="#">
+<img src="https://github.com/ashwinexe/ColoredBadges/blob/master/svg/dev/frameworks/nodejs.svg?raw=true">
+</a>
+<a href="#">
+<img src="https://github.com/ashwinexe/ColoredBadges/raw/master/svg/dev/languages/java.svg">
+</a>
+<a href="#">
+<img src="https://raw.githubusercontent.com/ashwinexe/ColoredBadges/master/svg/dev/languages/css3.svg">
+</a>
+<a href="#">
+<img src="https://raw.githubusercontent.com/ashwinexe/ColoredBadges/master/svg/dev/languages/html.svg">
+</a>
+<a href="https://git-scm.com/">
+<img src="https://raw.githubusercontent.com/ashwinexe/ColoredBadges/master/svg/dev/languages/js.svg">
+</a>
+
+</p>
+
+---
+**🧰My Gear...**
+<p>
+<a href="https://code.visualstudio.com/">
+<img src="https://raw.githubusercontent.com/ashwinexe/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+</a>
+<a href="github.com/ashwinexe">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/services/github.svg" alt="github" style="vertical-align:top; margin:4px">
+</a>
+<a href="https://git-scm.com">
+        <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/tools/git.svg" alt="git" style="vertical-align:top; margin:4px">
+</a>
+</p>
+
+---
+### ⚡ When I don't code : **Games, Music and Phothography**
