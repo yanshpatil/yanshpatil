@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yadnesh Patil</h1>
 <h3 align="center">A Student at R C Patel Institute of Technology</h3>
 
-- 🌱 I’m currently learning **Dart Using Flutter Framework**
+- 🌱 I’m currently learning ** Javascipt **
 - 👨‍💻 All of my projects are available at github.com/yanshpatil
-- 💬 Ask me about **Java, Dart or Object-Oriented Programming**
+- 💬 Ask me about **JavaScript , Java or Object-Oriented Programming**
 - 📫 How to reach me **yadneshpatil0307@gmail.com**
 - ⚡ Fun fact **I love working out**
--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Troublemaker379" target="blank"><img align="center" src="https://raw.githubusercontent.com/yanshpatil/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Troublemaker379" height="30" width="40" /></a>
