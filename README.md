@@ -9,7 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 ## 📫 How to reach me?
 
-Feel free to reach me out on [Twitter](https://twitter.com/Troublemaker379), [Linkedin](https://www.linkedin.com/in/yadnesh-patil/) or [Instagram](https://www.instagram.com/yanshhhh_), [Github](https://https://github.com/yanshpatil)
+Feel free to reach me out on [Twitter](https://twitter.com/Troublemaker379), [Linkedin](https://www.linkedin.com/in/yadnesh-patil/) or [Instagram](https://www.instagram.com/yanshhhh_), [Github](https://github.com/yanshpatil)
 
 *🚧I build with....**
 <p>
